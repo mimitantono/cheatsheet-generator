@@ -1,160 +1,101 @@
-- title: Anchors
-  sub-title: 
+- title: Dashboard
+  sub-title: Characteristics of a good dashboard
   color: aaaaaa
   items:
-      - title: ^
+      - title: service OK or not OK
         sub-title: Start of string, or start of line in multi-line pattern
         url: 
 
-      - title: \A
+      - title: derive sets of alerts
         sub-title: Start of string
         url: 
 
-      - title: $
+      - title: long-term trends
+        sub-title: End of string, or end of line in multi-line pattern
+        url: 
+        
+      - title: troubleshoot
+        sub-title: End of string, or end of line in multi-line pattern
+        url: 
+        
+      - title: the four golden signals
         sub-title: End of string, or end of line in multi-line pattern
         url: 
 
-- title: Card 2
+- title: The four golden signals
   sub-title: Sub Title
   color: F99157
   items:
-      - title: Item 1
+      - title: latency
         sub-title: A short description
         url: http://www.google.com
 
-      - title: Item 2
+      - title: traffic
         sub-title: A short description
         url: http://www.google.com
 
-      - title: A short description
+      - title: errors
+        sub-title: 
+        url: http://www.google.com
+        
+      - title: saturation
         sub-title: 
         url: http://www.google.com
 
-- title: Card 3
+- title: Categories of alerts
   sub-title: Sub Title
   color: 5FB3B3
   items:
-      - title: Item 1
+      - title: paging
         sub-title: A short description
         url: http://www.google.com
 
-      - title: Item 2
+      - title: ticket
         sub-title: A short description
         url: http://www.google.com
 
-      - title: A short description
+      - title: warning
         sub-title: 
         url: http://www.google.com
 
-- title: Card 4
+- title: Verifying a release
   sub-title: Sub Title
   color: 6699CC
   items:
-      - title: Item 1
+      - title: praying
         sub-title: A short description
         url: http://www.google.com
 
-      - title: Item 2
+      - title: tail logs
         sub-title: A short description
         url: http://www.google.com
 
-      - title: A short description
+      - title: check dashboards
+        sub-title: 
+        url: http://www.google.com
+        
+      - title: rely on good alerts
         sub-title: 
         url: http://www.google.com
 
-- title: Card 5
+- title: Decent paging alerts
   sub-title: Sub Title
   color: EC5f67
   items:
-      - title: Item 1
+      - title: anti-fatique
         sub-title: A short description
         url: http://www.google.com
 
-      - title: Item 2
+      - title: actionable
         sub-title: A short description
         url: http://www.google.com
 
-      - title: A short description
+      - title: require intelligence
+        sub-title: 
+        url: http://www.google.com
+        
+      - title: novel
         sub-title: 
         url: http://www.google.com
 
-- title: Card 6
-  sub-title: Sub Title
-  color: 8D89D1
-  items:
-      - title: Item 1
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 2
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: A short description
-        sub-title: 
-        url: http://www.google.com
-
-- title: Card 7
-  sub-title: Sub Title
-  color: EAB853
-  items:
-      - title: Item 1
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 2
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: A short description
-        sub-title: 
-        url: http://www.google.com
-
-- title: Card 8
-  sub-title: Sub Title
-  color: 89B784
-  items:
-      - title: Item 1
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 2
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 3
-        sub-title: 
-        url: http://www.google.com
-
-- title: Card 9
-  sub-title: Sub Title
-  color: 5FB3B3
-  items:
-      - title: Item 1
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 2
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 3
-        sub-title: 
-        url: http://www.google.com
-
-- title: Card 10
-  sub-title: Sub Title
-  color: EC5f67
-  items:
-      - title: Item 1
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 2
-        sub-title: A short description
-        url: http://www.google.com
-
-      - title: Item 3
-        sub-title: 
-        url: http://www.google.com
  
